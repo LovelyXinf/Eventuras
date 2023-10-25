@@ -1,0 +1,9 @@
+type: string
+title: Registration status enum.
+enum:
+  - draft
+  - cancelled
+  - verified
+  - notattended
+  - attended
+  - finished
